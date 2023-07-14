@@ -24,11 +24,12 @@ const body={
 }
 
 const heading={
-  background :"cyan",
+  background :"orange",
   padding :"10px",
   marginLeft:"400px",
   marginTop : "240px",
   marginRight :"430px",
+
   
   borderRadius : "10px",
   // color : "pink"
