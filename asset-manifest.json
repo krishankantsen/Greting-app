@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Greting-app/static/css/main.c5487d52.css",
+    "main.js": "/Greting-app/static/js/main.a7a4a70e.js",
+    "index.html": "/Greting-app/index.html",
+    "main.c5487d52.css.map": "/Greting-app/static/css/main.c5487d52.css.map",
+    "main.a7a4a70e.js.map": "/Greting-app/static/js/main.a7a4a70e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5487d52.css",
+    "static/js/main.a7a4a70e.js"
+  ]
+}
