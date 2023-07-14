@@ -28,7 +28,7 @@ const heading={
   padding :"10px",
   marginLeft:"400px",
   marginTop : "240px",
-  marginRight :"655px",
+  marginRight :"430px",
   
   borderRadius : "10px",
   // color : "pink"
