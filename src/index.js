@@ -28,8 +28,7 @@ const heading={
   padding :"10px",
   marginLeft:"400px",
   marginTop : "240px",
-  marginRight :"430px",
-
+  marginRight :"455px",
   
   borderRadius : "10px",
   // color : "pink"
