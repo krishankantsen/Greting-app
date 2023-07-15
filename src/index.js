@@ -26,11 +26,12 @@ const body={
 const heading={
   background :"orange",
   padding :"10px",
-  marginLeft:"400px",
-  marginTop : "240px",
-  marginRight :"430px",
+  marginLeft:"570px",
+  marginTop : "280px",
+  marginRight :"590px",
   
   borderRadius : "10px",
+  
   // color : "pink"
 
 };
