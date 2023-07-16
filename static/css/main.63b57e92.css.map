@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.63b57e92.css","mappings":"AAAA,MACE,wBACF,CAEA,0BAEC,GACC,kBACD,CAEA","sources":["index.css"],"sourcesContent":[".body{\n  background-color: #ab71c5;\n}\n/* Styles for mobile */\n@media (max-width: 3000px) {\n\n h1{\n  margin-right: 430px;\n }\n   \n }"],"names":[],"sourceRoot":""}
