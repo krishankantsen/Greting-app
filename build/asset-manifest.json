@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Greting-app/static/css/main.c5487d52.css",
-    "main.js": "/Greting-app/static/js/main.a7a4a70e.js",
+    "main.css": "/Greting-app/static/css/main.63b57e92.css",
+    "main.js": "/Greting-app/static/js/main.eeb249ea.js",
     "index.html": "/Greting-app/index.html",
-    "main.c5487d52.css.map": "/Greting-app/static/css/main.c5487d52.css.map",
-    "main.a7a4a70e.js.map": "/Greting-app/static/js/main.a7a4a70e.js.map"
+    "main.63b57e92.css.map": "/Greting-app/static/css/main.63b57e92.css.map",
+    "main.eeb249ea.js.map": "/Greting-app/static/js/main.eeb249ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5487d52.css",
-    "static/js/main.a7a4a70e.js"
+    "static/css/main.63b57e92.css",
+    "static/js/main.eeb249ea.js"
   ]
 }
